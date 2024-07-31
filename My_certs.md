@@ -1,6 +1,7 @@
 # My Google certificates:
 
 All the below certificates are part of the [Google Cybersecurity Professional Security](https://www.coursera.org/google-certificates/cybersecurity-certificate) which will help me learn the skills for a role/job in cybersecurity. Currently I am in progress of completing the course which I am determined to complete by this year.
+The links for all my activities are at the end of the page, whose details i have mentioned.
 
 ## 1. [Foundations](https://coursera.org/share/6104139b5fcd960c27bc08a531f3ec6a):
 
@@ -10,4 +11,11 @@ All the below certificates are part of the [Google Cybersecurity Professional Se
      
 ## 2. [Managing Risks](https://coursera.org/share/18efaf0c33a4dc00688ac7fc9670053c)
 
+     This course taught me about risk management skills and details of the CISSP domains and NIST CISF. From preventing risks by using techniques like strong passwords, proper access rules, use of firewalls, 
+     antivirus, monitoring the network logs using  SIEM to intercept any suscpicious activity in the network, following the NIST CISF to create a secure framework and controls. Also the use of playbooks which 
+     should be followed by an analyst in any case of attack that happens to the system of the organisation. I was tasked to write a security audit as well for a company by analysing the controls and compliance 
+     checklist. 
 ## 3. [Network and Network Security](https://coursera.org/share/dcfcd4b839cd64f5bf2d93c41b5e15c8)
+
+Links to activities:
+[Security audit](https://docs.google.com/document/d/1dKvEWpSLdzdJwB2OI-41elnrcyqTnJPrI8CVRuXOKAo/edit?usp=sharing) done in course 2.
