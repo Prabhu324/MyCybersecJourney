@@ -17,5 +17,5 @@ The links for all my activities are at the end of the page, whose details i have
      checklist. 
 ## 3. [Network and Network Security](https://coursera.org/share/dcfcd4b839cd64f5bf2d93c41b5e15c8)
 
-Links to activities:
+Links to activities:<br/>
 [Security audit](https://docs.google.com/document/d/1dKvEWpSLdzdJwB2OI-41elnrcyqTnJPrI8CVRuXOKAo/edit?usp=sharing) done in course 2.
